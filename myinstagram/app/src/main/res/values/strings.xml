@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">my instagram</string>
+    <string name="post">24</string>
+    <string name="following">872</string>
+    <string name="follow">389</string>
+    <string name="tag_post">Post</string>
+    <string name="tag_followers">Followers</string>
+    <string name="tag_following">Following</string>
+    <string name="tag_p1">Hal menarik ada di</string>
+    <string name="tag_name">ARIA</string>
+    <string name="btn_follow">Follow</string>
+    <string name="btn_message">Message</string>
+</resources>
